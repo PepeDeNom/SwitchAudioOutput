@@ -24,7 +24,7 @@ My two monitors are also listed in windows as sound devices, although they don't
 
 ## Install
 
-It's portable, doesn't need installation. Put the executable in the location of your choice.
+It's portable, doesn't need installation. Download the executable file from "Releases" section, and put it in the location of your choice.
 
 The first time you run this utility, the necessary files for its execution will be deployed in that same folder: the two Nirsoft utilities (see the technology section below for more information), and a config.ini file will also be created in %APPDATA%\SwitchAudioOutput.
 
