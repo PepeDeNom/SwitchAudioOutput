@@ -1,0 +1,13 @@
+ El volumen de la unidad D no tiene etiqueta.
+ El n£mero de serie del volumen es: 6050-33C2
+
+ Directorio de D:\Usuarios\USER\Dropbox\INFORMATICA\AHK\ChangeAudioOutput\soundvolumeview-x64
+
+26/10/2022  18:57    <DIR>          .
+26/10/2022  18:57    <DIR>          ..
+26/10/2022  18:57                 0 lista.txt
+05/08/2022  10:45            40.088 readme.txt
+05/08/2022  10:45            24.120 SoundVolumeView.chm
+05/08/2022  10:45           197.960 SoundVolumeView.exe
+               4 archivos        262.168 bytes
+               2 dirs  323.246.530.560 bytes libres
